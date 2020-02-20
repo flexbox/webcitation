@@ -60,6 +60,6 @@
     "lighthouse": "^3.0.3",
     "node-gyp": "^3.7.0",
     "prettier": "^1.13.5",
-    "why-did-you-update": "1.0.6"
+    "why-did-you-update": "1.0.8"
   }
 }
